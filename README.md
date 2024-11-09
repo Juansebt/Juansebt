@@ -1,8 +1,8 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world!
 
 <p align="center" >
   <samp>
-    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+    My name is <em>Juan Sebastián</em>. I am a Fullstack 'n' mobile developer... 
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
