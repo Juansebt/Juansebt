@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Juan Sebastián</em>. I am a Fullstack 'n' mobile developer... 
+    My name is <em>Juan Sebastián</em>. I am a Fullstack developer and Multimedia designer... 
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
