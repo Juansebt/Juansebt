@@ -2,8 +2,8 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Juan Sebastián</em>. I am a Fullstack developer and Multimedia designer
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    My name is <em>Juan Sebastián</em>...
+  <br/> I am a Software Developer with solid knowledge in frontend and backend development, with a background in multimedia content design and integration. My analytical approach and ability to learn quickly allow me to adapt efficiently to new technologies and challenges, I have good collaboration skills in teams contributing to a dynamic work environment. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
 Creating games for fun, composing songs,
