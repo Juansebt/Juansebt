@@ -9,7 +9,7 @@
           <br/> I have good collaboration skills in teams contributing to a dynamic work environment. 
   </samp>
 </p>
-
+<hr>
 <p align="center">
 	<img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"> &nbsp;&nbsp;
