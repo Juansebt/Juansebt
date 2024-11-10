@@ -26,6 +26,7 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"> &nbsp;&nbsp;
+	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"> &nbsp;&nbsp;
 </p>
 <p align="center">
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"> &nbsp;&nbsp;
