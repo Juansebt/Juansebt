@@ -28,7 +28,7 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000">
 </p>
 <p align="center">
-	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> &nbsp;&nbsp;
