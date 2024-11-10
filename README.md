@@ -15,7 +15,7 @@
 
 <p align="center">
 	<img height="75" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
+	<img height="75" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 	<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png">
 </p>
