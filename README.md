@@ -4,9 +4,8 @@
   <samp>
     My name is <em>Juan Sebastián</em>...
   <br/> I am a Software Developer with solid knowledge in frontend and backend development,
-    <br/> with a background in multimedia content design and integration. My analytical approach and ability to learn quickly allow me to adapt efficiently to new technologies and challenges, I have good collaboration skills in teams contributing to a dynamic work environment. 
-      <br/>
-Creating games for fun, composing songs,
+    <br/> with a background in multimedia content design and integration. 
+      <br/> My analytical approach and ability to learn quickly allow me to adapt efficiently to new technologies and challenges, I have good collaboration skills in teams contributing to a dynamic work environment. 
           <br/>
 continuously learning, wanting to help the community
   </samp>
