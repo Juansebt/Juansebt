@@ -8,9 +8,6 @@
       <br/> My analytical approach and ability to learn quickly allow me to adapt efficiently to new technologies and challenges,
           <br/> I have good collaboration skills in teams contributing to a dynamic work environment. 
   </samp>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
 <p align="center">
