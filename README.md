@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 	<img height="75" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="75" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"> &nbsp;&nbsp;
+	<img height="75" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="75" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="75" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="75" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000">
