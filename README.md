@@ -1,30 +1,30 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, world!
 
-<p align="center" >
+<p align="center">
   <samp>
-    My name is <em>Juan Sebastián</em>...
-  <br/> I am a Software Developer with solid knowledge in frontend and backend development,
-    <br/> with a background in multimedia content design and integration. 
-      <br/> My analytical approach and ability to learn quickly allow me to adapt efficiently to new technologies and challenges,
-          <br/> I have good collaboration skills in teams contributing to a dynamic work environment. 
+    Hi, I'm <em>Juan Sebastián</em>! 
+    <br/> I'm a Full-Stack Developer with a strong foundation in frontend and backend technologies.
+    <br/> I also have experience in multimedia content design and integration, which complements my software development skills.
+    <br/> My analytical mindset, combined with a quick learning curve, allows me to adapt to new challenges and technologies efficiently.
+    <br/> I thrive in collaborative environments, contributing effectively to dynamic, cross-functional teams.
   </samp>
 </p>
 <br/>
 <p align="center">
-	<img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+	<img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Python Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="Node.js Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="TypeScript Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000" alt="Vue.js Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="PostgreSQL Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C# Icon">
 </p>
 <p align="center">
-	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000">
+	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="PHP Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="MySQL Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Flask Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Git Icon">
 </p>
 <br/>
