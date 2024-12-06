@@ -28,7 +28,9 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Git Icon">
 </p>
 <br/>
-
+<p aling="center">
+	<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+</p>
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
