@@ -1,7 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, world!
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 <p align="center">
   <samp>
     Hi, I'm <em>Juan Sebastián</em>! Welcome to my Github page...
@@ -30,6 +28,8 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Git Icon">
 </p>
 <br/>
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
