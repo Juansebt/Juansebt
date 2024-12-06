@@ -1,3 +1,4 @@
+<div align="center">
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, world!
 
 <p>
@@ -30,7 +31,7 @@
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Git Icon">
 </p>
-
+</div>
 <div align="center">
 
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
