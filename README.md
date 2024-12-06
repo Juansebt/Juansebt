@@ -1,5 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, world!
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <p align="center">
   <samp>
     Hi, I'm <em>Juan Sebastián</em>! Welcome to my Github page...
