@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Hi, I'm <em>Juan Sebastián</em>! 
+    Hi, I'm <em>Juan Sebastián</em>! Welcome to my Github page...
     <br/> I'm a Full-Stack Developer with a strong foundation in frontend and backend technologies.
     <br/> I also have experience in multimedia content design and integration, which complements my software development skills.
     <br/> My analytical mindset, combined with a quick learning curve, allows me to adapt to new challenges and technologies efficiently.
