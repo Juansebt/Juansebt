@@ -17,7 +17,7 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000">
+	<img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 </p>
 <p align="center">
 	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> &nbsp;&nbsp;
