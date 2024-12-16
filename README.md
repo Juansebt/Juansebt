@@ -15,23 +15,23 @@
 <br/>
 
 <p>
-	<img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Python Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="Node.js Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="TypeScript Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000" alt="Vue.js Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="PostgreSQL Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="HTML Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="CSS Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000" alt="PHP Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C# Icon">
 </p>
 
 <p>
-	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="PHP Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="MySQL Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL Icon"> &nbsp;&nbsp;
+	<img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgrSQL Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="React Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Git Icon">
+	<img height="50" src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" alt="Vue Icon">
 </p>
 
 <br/>
