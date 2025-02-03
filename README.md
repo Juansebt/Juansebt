@@ -21,7 +21,7 @@
 	<img height="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="CSS Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=anECpXcEIboQ&format=png&color=000000" alt="PHP Icon"> &nbsp;&nbsp;
 	<img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Icon"> &nbsp;&nbsp;
-	<img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C# Icon">
+	<img height="50" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C# Icon">
 </p>
 
 <p>
